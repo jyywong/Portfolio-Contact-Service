@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1:8000', '127.0.0.1:8001',
-                 'https://dry-shore-22168.herokuapp.com']
+                 'dry-shore-22168.herokuapp.com']
 
 
 # Application definition
